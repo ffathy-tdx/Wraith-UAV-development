@@ -122,4 +122,4 @@ We faced issues connecting the Raspberry Pi to the Pixhawk due to the absence of
 
 ---
 
-For further questions, please contact me at [ffathy2004@gmail.com](mailto:ffathy2004@gmail.com).
+For further questions, please contact us at [ffathy2004@gmail.com](mailto:ffathy2004@gmail.com) or [abdosaaed749@gmail.com](mailto:ffathy2004@gmail.com). 
