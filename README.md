@@ -2,9 +2,6 @@
 
 ## Project Documentation
 
-**Contributors:**  
-Fares Fathy  
-
 **Course:**  
 Computer Organization
 
