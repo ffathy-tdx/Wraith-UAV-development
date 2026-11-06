@@ -126,6 +126,8 @@ The settings for good ESC performance were found by trying different combination
 
 A battery failsafe starts a Return to Launch (RTL) sequence if battery voltage drops below 7.5V, so the drone returns and lands safely.
 
+**Note:** 7.5V was a beginner's choice, made before I knew good settings. On a 3S pack it is only about 2.5V per cell, which is too low to be safe. A higher threshold is better (for a 3S pack, around 10.5V is a common choice).
+
 ![Failsafe settings](https://github.com/user-attachments/assets/8cc1a4e1-ef8f-4533-88fc-cddc5ff25ae9)
 
 ## Challenges
